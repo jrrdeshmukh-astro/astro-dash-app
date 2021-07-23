@@ -25,7 +25,7 @@ python app.py
 
 To clone this repository, run:
 ```
-git clone https://github.com/plotly/dash-sample-apps
+git clone https://github.com/plotly/astro-dash-app
 ```
 
 Note this might take a long time since it copies over 100 apps available in the repo. If you just want to try one app, refer to the section above.
